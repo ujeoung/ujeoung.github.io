@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
+title: My_Blog
+# logo: logo.svg # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
@@ -11,7 +11,7 @@ author:
   name: Alex Rodriguez
   image: 01.jpg
   say-hello: <strong> 유정우의 블로그입니다. <ong>
-
+  bio: python
 
 
 #-------------------------------
