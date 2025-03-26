@@ -7,7 +7,6 @@ tags:   Resources
 ---
 Tensorflow를 처음 배웠다..
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
 ## Are you crazy? I can't swallow that.
 
