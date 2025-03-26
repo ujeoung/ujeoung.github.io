@@ -10,7 +10,7 @@ description: Zolan is modern minimal theme for Jekyll
 author:
   name: Alex Rodriguez
   image: 01.jpg
-  say-hello: <strong> 유정우의 블로그입니다. <ong>
+  say-hello: <strong> 유정우의 블로그 </strong>
   bio: python
 
 
