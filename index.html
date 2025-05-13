@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: default
 ---
 {% include hero.html %}
@@ -22,38 +22,4 @@ layout: default
 	{% endif %}
 	</div>
 </div>
-{% include pagination.html %} -->
-
----
-layout: default
----
-
-{% include hero.html %}
-
-<!-- === 소개 섹션 추가 === -->
-<section class="intro container">
-  <h2>👋 안녕하세요!</h2>
-  <p>내가 유정우</p>
-</section>
-
-<!-- === 최신 글 섹션 === -->
-<div class="container">
-  <div class="row">
-    <div class="col-12">
-      {% if site.posts.size > 0 %}
-        <h4 class="lates-title">최신 글</h4>
-      {% endif %}
-    </div>
-  </div>
-</div>
-
-<!-- === 포스트 카드들 === -->
-<div class="container">
-  <div class="row">
-    {% for post in paginator.posts %}
-      {% include article-content.html %}
-    {% endfor %}
-  </div>
-</div>
-
 {% include pagination.html %}
